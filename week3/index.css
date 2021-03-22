@@ -1,0 +1,13 @@
+.parent{
+    background-color: lightskyblue;
+    height: 200px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 30% 20% 50%;
+}
+
+.child{
+    background-color: purple;
+    border: 2px solid black;
+    height: 100px;
+}
